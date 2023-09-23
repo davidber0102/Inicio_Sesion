@@ -82,7 +82,7 @@ h2.titulo {
 
 /* estilo del form*/
 
-input[type=button], input[type=submit], input[type=reset]  {
+input[type=button], input[type=submit], input[type=reset]{
   background-color: #042259;
   border: none;
   color: white;
@@ -122,7 +122,7 @@ input[type=button]:titulo, input[type=submit]:titulo, input[type=reset]:titulo  
   transform: scale(0.95);
 }
 */
-input[type=text] {
+input[type=text], input[type=password] {
   background-color: #e6e0e0;
   border: none;
   color: #040b5d;
